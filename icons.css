@@ -133,57 +133,54 @@
 .icon-roomhunter-arrow-down:before {
   content: "\e012";
 }
-.icon-roomhunter-share:before {
-  content: "\e013";
-}
 .icon-roomhunter-flash:before {
-  content: "\e014";
+  content: "\e013";
 }
 .icon-roomhunter-upload:before {
-  content: "\e015";
+  content: "\e014";
 }
 .icon-roomhunter-frown:before {
-  content: "\e016";
+  content: "\e015";
 }
 .icon-roomhunter-check:before {
-  content: "\e017";
+  content: "\e016";
 }
 .icon-roomhunter-cancel:before {
-  content: "\e018";
+  content: "\e017";
 }
 .icon-roomhunter-plus:before {
-  content: "\e019";
+  content: "\e018";
 }
 .icon-roomhunter-minus:before {
-  content: "\e01a";
+  content: "\e019";
 }
 .icon-roomhunter-calendar:before {
+  content: "\e01a";
+}
+.icon-roomhunter-dog:before {
   content: "\e01b";
 }
-.icon-roomhunter-pet:before {
+.icon-roomhunter-clip:before {
   content: "\e01c";
 }
-.icon-roomhunter-clip:before {
+.icon-roomhunter-clip-o:before {
   content: "\e01d";
 }
-.icon-roomhunter-clip-o:before {
+.icon-roomhunter-wechat:before {
   content: "\e01e";
 }
-.icon-roomhunter-wechat:before {
+.icon-roomhunter-register:before {
   content: "\e01f";
 }
-.icon-roomhunter-register:before {
+.icon-roomhunter-heart:before {
   content: "\e020";
 }
-.icon-roomhunter-heart:before {
+.icon-roomhunter-filter:before {
   content: "\e021";
 }
-.icon-roomhunter-filter:before {
+.icon-roomhunter-share:before {
   content: "\e022";
 }
-.icon-roomhunter-share:before {
-  content: "\e023";
-}
 .icon-roomhunter-film:before {
-  content: "\e013";
+  content: "\e023";
 }
